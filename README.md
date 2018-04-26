@@ -1,4 +1,4 @@
 # hello-world
 Learning Github.
 
-A comment that no one would ever read.
+What do you get when you mix a bear with a pot of gold?
